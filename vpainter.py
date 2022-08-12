@@ -57,7 +57,7 @@ while True:
                     drawColor = (255, 0, 255)
                 elif 550 < x1 < 750:#if i m clicking at blue brush
                     header = overlayList[1]
-                    drawColor = (255, 0, 0)
+                    drawColor = (247,43,2)
                 elif 800 < x1 < 950:#if i m clicking at green brush
                     header = overlayList[2]
                     drawColor = (0, 255, 0)
