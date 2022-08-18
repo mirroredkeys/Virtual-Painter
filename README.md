@@ -14,3 +14,6 @@ Python 3.10.5
    
    
 then run..⋅⋅
+
+##### Reference(s): ##### 
+[AI Virtual Painter](https://www.youtube.com/watch?v=ZiwZaAVbXQo)
