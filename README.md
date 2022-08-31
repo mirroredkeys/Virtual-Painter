@@ -14,7 +14,8 @@ Python 3.10.5
 3. install package(s)
    
    
-then run..⋅⋅
+#### To run..⋅⋅
+ type __python vpainter.py__ in terminal
 
 ##### Reference(s): ##### 
 [AI Virtual Painter](https://www.youtube.com/watch?v=ZiwZaAVbXQo)
